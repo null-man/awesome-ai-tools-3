@@ -1794,6 +1794,9 @@ Join 2700+ creators to reach billions of people globally
 98. [Alors On Danse Video Maker](https://alorsondansevideo.com) 👉 Independent AI video maker: turn two portrait photos into a 13-second, 480p two-person studio dance clip. Paid. Not affiliated with rights holders or TikTok; no original song.
 99. [Bad Times AI](https://badtimesai.dev) 👉 Independent AI tool that synthesizes dance video effects from photos. Paid from $7.99 one-time. Unofficial; not affiliated with artists or rights holders.
 100. [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) 👉 Independent AI tool that synthesizes a meet-in-the-crowd video effect from photos. Paid from $7.99. Unofficial; not affiliated with creators, artists, rights holders, or TikTok.
+101. [KDA Firestarter AI Dance](https://kdafirestarterai.dev) 👉 Independent unofficial AI tool: one photo → 13s 480p 21:9 solo dance video. Paid from $7.99 one-time. Not affiliated with Riot Games or K/DA.
+102. [A2O LITE NEON AI Dance](https://a2oliteai.org) 👉 Independent AI tool: two photos → 15s 480p 16:9 duo dance video with reference soundtrack. Paid from $7.99 one-time. Unofficial.
+103. [dime dime baby ai](https://dimedimebabyai.dev) 👉 Independent AI tool: one photo → ~5s 480p 9:16 AI dance video (Quince Classic or Party Groove). Paid from $7.99 one-time.
 
 
 ## 6. <a name='Design'></a>🎨 Design
