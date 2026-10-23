@@ -607,6 +607,7 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 277. [Prompt to Asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) 👉 MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing requests across 30+ image generation models. Zero API key required for first run.
 
 278. [Punch Needle Generator](https://www.punchneedle.co.il/en) 👉 AI-powered punch needle embroidery pattern generator with color-coded yarn maps. Generates patterns from text prompts or image uploads, exports PDF/PNG/SVG.
+279. [PromptImage](https://promptimage.cloud) 👉 Free AI image gallery and AI image/video generator with a curated prompt library. Core use free; signup credits, no card required.
 
 ## 2. <a name='Writing'></a>✍️ Writing
 
@@ -1789,6 +1790,7 @@ Join 2700+ creators to reach billions of people globally
 95. [StoryIntoVideo](https://storyintovideo.com) 👉 AI-powered story-to-video platform that transforms written narratives into complete videos. Automatically generates scripts, storyboards, AI characters with visual consistency, voice narration, and subtitles. Supports multiple art styles including anime, cinematic, and illustration.
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
+97. [GrokVideo Studio](https://grokvideogenerator.dev) 👉 Independent text/image-to-video AI studio (not affiliated with xAI or X). Free trial available.
 
 ## 6. <a name='Design'></a>🎨 Design
 
@@ -2013,6 +2015,7 @@ Join 2700+ creators to reach billions of people globally
 125. [Icon Craft AI](https://iconcraftai.com/) 👉 Accelerate Your Icon Creation Process: Harness the Power of Our AI Digital Icon Generator for Your Business Website, Applications, and Brand.
 
 126. [Image3D](https://image3d.io/) 👉 Convert images into 3D assets with GLB, OBJ, STL, and PLY exports.
+127. [TeslaWraps](https://teslawraps.design) 👉 Design Tesla Paint Shop-style wraps in the browser. Core editor free without an account; paid AI credits optional.
 
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
