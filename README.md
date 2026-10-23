@@ -1791,6 +1791,10 @@ Join 2700+ creators to reach billions of people globally
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
 97. [GrokVideo Studio](https://grokvideogenerator.dev) 👉 Independent text/image-to-video AI studio (not affiliated with xAI or X). Free trial available.
+98. [Alors On Danse Video Maker](https://alorsondansevideo.com) 👉 Independent AI video maker: turn two portrait photos into a 13-second, 480p two-person studio dance clip. Paid. Not affiliated with rights holders or TikTok; no original song.
+99. [Bad Times AI](https://badtimesai.dev) 👉 Independent AI tool that synthesizes dance video effects from photos. Paid from $7.99 one-time. Unofficial; not affiliated with artists or rights holders.
+100. [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) 👉 Independent AI tool that synthesizes a meet-in-the-crowd video effect from photos. Paid from $7.99. Unofficial; not affiliated with creators, artists, rights holders, or TikTok.
+
 
 ## 6. <a name='Design'></a>🎨 Design
 
